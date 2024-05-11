@@ -1,4 +1,4 @@
 # ASU_DA_Project1_Team2
 
 #Data Sources
-1.Files in source_files folder: datasets on deaths in the US from https://www.kaggle.com/datasets/cdc/mortality
+1.Original source datasets on deaths in the US downloaded to local PCs from https://www.kaggle.com/datasets/cdc/mortality. Unable to upload to GitHub due to size restrictions.
