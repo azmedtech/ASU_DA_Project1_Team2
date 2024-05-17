@@ -30,7 +30,7 @@ Mortality Data:
 3. Click the "Download" button to download the dataset to your local machine.
 
 Population Data:
-1. Navigate to the 2005-2010 Population Data and 2010-2019 Population Data pages.
+1. Navigate to the 2005-2010 Mortality Data and 2010-2019 Population Data pages.
 2. Download the relevant CSV files for each time period.
 
 Step 2: Clean the Data
